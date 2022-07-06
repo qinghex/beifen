@@ -1,0 +1,3 @@
+vpn url vpn.htsc.com:1723
+usrname admin
+password 123456
